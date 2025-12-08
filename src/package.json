@@ -53,7 +53,7 @@
     "mdast-util-directive": "^3.0.0",
     "mdast-util-from-markdown": "^2.0.0",
     "mdast-util-gfm": "^3.0.0",
-    "mdast-util-to-hast": "^13.0.2",
+    "mdast-util-to-hast": "^13.2.1",
     "minimatch": "^9.0.3",
     "minisearch": "^6.3.0",
     "ora": "^7.0.1",
